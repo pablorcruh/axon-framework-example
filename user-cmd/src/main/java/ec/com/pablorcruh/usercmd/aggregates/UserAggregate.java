@@ -1,6 +1,6 @@
 package ec.com.pablorcruh.usercmd.aggregates;
 
-import com.example.usercore.events.UserRegisteredEvent;
+ import com.example.usercore.events.UserRegisteredEvent;
 import com.example.usercore.events.UserRemovedEvent;
 import com.example.usercore.events.UserUpdatedEvent;
 import com.example.usercore.models.User;
