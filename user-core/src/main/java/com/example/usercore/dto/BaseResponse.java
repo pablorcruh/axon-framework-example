@@ -1,4 +1,4 @@
-package ec.com.pablorcruh.usercmd.dtos;
+package com.example.usercore.dto;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;

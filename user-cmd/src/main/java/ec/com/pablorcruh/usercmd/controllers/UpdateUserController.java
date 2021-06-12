@@ -1,8 +1,7 @@
 package ec.com.pablorcruh.usercmd.controllers;
 
 import ec.com.pablorcruh.usercmd.commands.UpdateUserCommand;
-import ec.com.pablorcruh.usercmd.dtos.BaseResponse;
-import ec.com.pablorcruh.usercmd.dtos.RegisterUserResponse;
+import com.example.usercore.dto.BaseResponse;
 import org.axonframework.commandhandling.gateway.CommandGateway;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;

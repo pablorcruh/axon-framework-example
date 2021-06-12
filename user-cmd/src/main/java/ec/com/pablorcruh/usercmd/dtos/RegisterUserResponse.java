@@ -1,6 +1,8 @@
 package ec.com.pablorcruh.usercmd.dtos;
 
-public class RegisterUserResponse extends BaseResponse{
+import com.example.usercore.dto.BaseResponse;
+
+public class RegisterUserResponse extends BaseResponse {
 
     private String id;
 
