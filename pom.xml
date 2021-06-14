@@ -12,6 +12,7 @@
         <module>user-core</module>
         <module>user-cmd</module>
         <module>user-query</module>
+        <module>oauth-server</module>
     </modules>
     <properties>
         <maven.compiler.source>16</maven.compiler.source>
